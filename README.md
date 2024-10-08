@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **barii02@hotmail.com**
 
-- ⚡ Fun fact **I speak 3 languages**
+- ⚡ Fun fact **I am Trilingual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
