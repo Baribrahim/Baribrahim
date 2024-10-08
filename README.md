@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Bari Ibrahim</h1>
 <h3 align="center">An Aspiring Software Engineer from London, UK</h3>
 
-- 🔭 I’m currently working on **Distributed File System**
+- 🔭 I’m currently working on **A gamified platform for teaching Scrum-Agile methodologies**
 
 - 🌱 I’m currently learning **Natural Language Processing, Machine Learning**
 
