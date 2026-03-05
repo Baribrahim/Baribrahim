@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Bari Ibrahim</h1>
-<h3 align="center">An Aspiring Software Engineer from London, UK</h3>
+<h3 align="center">A Software Engineer from London, UK</h3>
 
 - 🔭 I’m currently working on **Devla: A platform that measures how well you collaborate with AI**
 
