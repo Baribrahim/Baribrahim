@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Bari Ibrahim</h1>
 <h3 align="center">An Aspiring Software Engineer from London, UK</h3>
 
-- 🔭 I’m currently working on **A gamified platform for teaching Scrum-Agile methodologies**
+- 🔭 I’m currently working on **Devla: A platform that measures how well you collaborate with AI**
 
-- 🌱 I’m currently learning **Natural Language Processing, Machine Learning**
+- 🌱 I’m currently learning **How LLMs work**
 
-- 👯 I’m looking to collaborate on **Full-Stack applications**
-
-- 🤝 I’m looking for help with **building a Project-Based Learning platform**
+- 👯 I’m looking to collaborate on **Meaningful Real World Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Baribrahim](https://github.com/Baribrahim)
 
